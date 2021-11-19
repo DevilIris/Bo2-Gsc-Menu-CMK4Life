@@ -1,4 +1,3 @@
-//Decompiled with SeriousHD-'s GSC Decompiler
 #include maps/mp/killstreaks/_remotemissile;
 #include maps/mp/killstreaks/_killstreaks;
 #include maps/mp/gametypes/_globallogic;
